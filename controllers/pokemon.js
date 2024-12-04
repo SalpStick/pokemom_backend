@@ -5,6 +5,27 @@ const NotFoundError = require('../errors/NotFoundError');
 const ForbiddenError = require('../errors/ForbiddenError');
 const { ERROR_MESSAGES } = require("../utils/errors");
 
+const createItem = (req, res, next) => {
+  const { name, imageUrl, number } = req.body;
+
+  if (!validator.isURL(imageUrl)) {
+    return next(new BadRequestError('Not a valid URL'));
+  }
+
+  return Pokemon.create({
+    name,
+    imageUrl,
+    number,
+  })
+    .then((item) => res.status(201).json(item))
+    .catch((err) => {
+      if (err.name === "ValidationError") {
+        return next(new BadRequestError(err.message));
+      }
+      return next(err);
+    });
+};
+
 const getItem = (req, res, next) => {
   const { itemId } = req.params;
 
@@ -33,10 +54,6 @@ const deleteItem = (req, res, next) => {
   Pokemon.findById(itemId)
     .orFail(() => new NotFoundError(ERROR_MESSAGES.NOT_FOUND))
     .then((item) => {
-      if (String(item.owner) !== req.user._id)
-      {
-        return next(new ForbiddenError ("You are not authorized to delete this item"));
-      }
       return item.deleteOne().then(() => res.status(200).send({ message: "Item successfully deleted" }));
     })
     .catch((err) => {
@@ -93,6 +110,7 @@ const dislikeItem = (req, res, next) => {
 };
 
 module.exports = {
+  createItem,
   getItems,
   deleteItem,
   getItem,
