@@ -14,11 +14,11 @@ router.get("/", getItems);
 
 router.post("/", createItem);
 
+router.delete("/:itemId",  deleteItem);
+
 router.use(auth)
 
 router.get("/:itemId", getItem);
-
-router.delete("/:itemId",  deleteItem);
 
 router.put("/:itemId/likes", validateId,  likeItem);
 
