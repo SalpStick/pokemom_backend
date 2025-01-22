@@ -6,8 +6,11 @@ const ForbiddenError = require('../errors/ForbiddenError');
 const { ERROR_MESSAGES } = require("../utils/errors");
 
 const createItem = (req, res, next) => {
-  const { name, imageUrl, number } = req.body;
-
+  req.body.forEach(item =>{
+  let { name, imageUrl, number } = item;
+  console.log(imageUrl);
+  console.log(name);
+  console.log(number);
   if (!validator.isURL(imageUrl)) {
     return next(new BadRequestError('Not a valid URL'));
   }
@@ -17,13 +20,14 @@ const createItem = (req, res, next) => {
     imageUrl,
     number,
   })
-    .then((item) => res.status(201).json(item))
     .catch((err) => {
       if (err.name === "ValidationError") {
-        return next(new BadRequestError(err.message));
+        return next(new BadRequestError(err.message + " at number " + number));
       }
       return next(err);
     });
+})
+res.status(201);
 };
 
 const getItem = (req, res, next) => {

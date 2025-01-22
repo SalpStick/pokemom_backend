@@ -9,10 +9,6 @@ const pokemonSchema = new mongoose.Schema({
   imageUrl: {
     type: String,
     required: false,
-    validate: {
-      validator: (value) => validator.isURL(value),
-      message: (props) => `${props.value} is not a valid URL!`,
-    },
   },
   number: {
     type: Number,
