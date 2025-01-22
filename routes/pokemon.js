@@ -14,9 +14,9 @@ router.get("/", getItems);
 
 router.post("/", createItem);
 
-router.use(auth)
-
 router.delete("/:itemId",  deleteItem);
+
+router.use(auth)
 
 router.get("/:itemId", getItem);
 
