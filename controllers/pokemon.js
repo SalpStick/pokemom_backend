@@ -27,7 +27,7 @@ const createItem = (req, res, next) => {
       return next(err);
     });
 })
-res.status(201);
+res.status(201).send("Added Items");
 };
 
 const getItem = (req, res, next) => {
