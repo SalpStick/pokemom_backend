@@ -12,9 +12,9 @@ const { validateId, validateCardBody } = require('../middlewares/validation');
 
 router.get("/", getItems);
 
-router.post("/", createItem);
+// router.post("/", createItem);
 
-router.delete("/:itemId",  deleteItem);
+// router.delete("/:itemId",  deleteItem);
 
 router.get("/:itemId", getItem);
 
