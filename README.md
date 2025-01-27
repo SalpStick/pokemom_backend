@@ -1,7 +1,7 @@
 # pokemom_backend
 
 # Frontend Domain
-wtwr1.ignorelist.com
+**[pokemom.ignorelist.com](https://pokemom.ignorelist.com)**
 
 # Backend Domain
-api.wtwr1.ignorelist.com
+**[api.pokemom.ignorelist.com](https://api.pokemom.ignorelist.com)**
