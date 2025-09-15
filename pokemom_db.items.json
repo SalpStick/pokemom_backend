@@ -1,0 +1,3908 @@
+[{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ace"
+  },
+  "name": "bulbasaur",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+  "number": 1,
+  "likes": [
+    {
+      "$oid": "67508d4068672c5131f05f37"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3aca"
+  },
+  "name": "ivysaur",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+  "number": 2,
+  "likes": [
+    {
+      "$oid": "67508d4068672c5131f05f37"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ac8"
+  },
+  "name": "venusaur",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+  "number": 3,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3acc"
+  },
+  "name": "charmander",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+  "number": 4,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ad8"
+  },
+  "name": "charmeleon",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+  "number": 5,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ad2"
+  },
+  "name": "charizard",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+  "number": 6,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ad6"
+  },
+  "name": "squirtle",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+  "number": 7,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ad0"
+  },
+  "name": "wartortle",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+  "number": 8,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ad4"
+  },
+  "name": "blastoise",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+  "number": 9,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ae4"
+  },
+  "name": "caterpie",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+  "number": 10,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.483Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ae0"
+  },
+  "name": "metapod",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+  "number": 11,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3adc"
+  },
+  "name": "butterfree",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+  "number": 12,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ae6"
+  },
+  "name": "weedle",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+  "number": 13,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ae2"
+  },
+  "name": "kakuna",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+  "number": 14,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ada"
+  },
+  "name": "beedrill",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+  "number": 15,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ae8"
+  },
+  "name": "pidgey",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+  "number": 16,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b28"
+  },
+  "name": "pidgeotto",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+  "number": 17,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ade"
+  },
+  "name": "pidgeot",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+  "number": 18,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b04"
+  },
+  "name": "rattata",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+  "number": 19,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b52"
+  },
+  "name": "raticate",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+  "number": 20,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b0a"
+  },
+  "name": "spearow",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+  "number": 21,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3af0"
+  },
+  "name": "fearow",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+  "number": 22,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3af2"
+  },
+  "name": "ekans",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+  "number": 23,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3aea"
+  },
+  "name": "arbok",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+  "number": 24,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.541Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3af8"
+  },
+  "name": "pikachu",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+  "number": 25,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b0c"
+  },
+  "name": "raichu",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+  "number": 26,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b06"
+  },
+  "name": "sandshrew",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+  "number": 27,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3afc"
+  },
+  "name": "sandslash",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+  "number": 28,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b6e"
+  },
+  "name": "nidoran-f",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+  "number": 29,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b0e"
+  },
+  "name": "nidorina",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+  "number": 30,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3af6"
+  },
+  "name": "nidoqueen",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+  "number": 31,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3af4"
+  },
+  "name": "nidoran-m",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+  "number": 32,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b2a"
+  },
+  "name": "nidorino",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+  "number": 33,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b00"
+  },
+  "name": "nidoking",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+  "number": 34,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b16"
+  },
+  "name": "clefairy",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+  "number": 35,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b08"
+  },
+  "name": "clefable",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+  "number": 36,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3afa"
+  },
+  "name": "vulpix",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+  "number": 37,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b2c"
+  },
+  "name": "ninetales",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+  "number": 38,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3aec"
+  },
+  "name": "jigglypuff",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+  "number": 39,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b6c"
+  },
+  "name": "wigglytuff",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+  "number": 40,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bc0"
+  },
+  "name": "zubat",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+  "number": 41,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b10"
+  },
+  "name": "golbat",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+  "number": 42,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b74"
+  },
+  "name": "oddish",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+  "number": 43,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b12"
+  },
+  "name": "gloom",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+  "number": 44,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b70"
+  },
+  "name": "vileplume",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+  "number": 45,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b76"
+  },
+  "name": "paras",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+  "number": 46,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3afe"
+  },
+  "name": "parasect",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+  "number": 47,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b14"
+  },
+  "name": "venonat",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+  "number": 48,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b78"
+  },
+  "name": "venomoth",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+  "number": 49,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b18"
+  },
+  "name": "diglett",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+  "number": 50,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b1a"
+  },
+  "name": "dugtrio",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+  "number": 51,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b8e"
+  },
+  "name": "meowth",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+  "number": 52,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3aee"
+  },
+  "name": "persian",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+  "number": 53,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b1c"
+  },
+  "name": "psyduck",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+  "number": 54,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b1e"
+  },
+  "name": "golduck",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+  "number": 55,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b20"
+  },
+  "name": "mankey",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+  "number": 56,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b90"
+  },
+  "name": "primeape",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+  "number": 57,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b22"
+  },
+  "name": "growlithe",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+  "number": 58,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b24"
+  },
+  "name": "arcanine",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+  "number": 59,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b2e"
+  },
+  "name": "poliwag",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+  "number": 60,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b60"
+  },
+  "name": "poliwhirl",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+  "number": 61,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b30"
+  },
+  "name": "poliwrath",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+  "number": 62,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b7a"
+  },
+  "name": "abra",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+  "number": 63,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b26"
+  },
+  "name": "kadabra",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+  "number": 64,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b3a"
+  },
+  "name": "alakazam",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+  "number": 65,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b94"
+  },
+  "name": "machop",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+  "number": 66,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b32"
+  },
+  "name": "machoke",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+  "number": 67,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b36"
+  },
+  "name": "machamp",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+  "number": 68,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b38"
+  },
+  "name": "bellsprout",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+  "number": 69,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b34"
+  },
+  "name": "weepinbell",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+  "number": 70,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b02"
+  },
+  "name": "victreebel",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+  "number": 71,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b3e"
+  },
+  "name": "tentacool",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+  "number": 72,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b40"
+  },
+  "name": "tentacruel",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+  "number": 73,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b86"
+  },
+  "name": "geodude",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+  "number": 74,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b42"
+  },
+  "name": "graveler",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+  "number": 75,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b44"
+  },
+  "name": "golem",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+  "number": 76,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b46"
+  },
+  "name": "ponyta",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+  "number": 77,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b48"
+  },
+  "name": "rapidash",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+  "number": 78,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b62"
+  },
+  "name": "slowpoke",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+  "number": 79,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b9a"
+  },
+  "name": "slowbro",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+  "number": 80,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.961Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b4a"
+  },
+  "name": "magnemite",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+  "number": 81,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b84"
+  },
+  "name": "magneton",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+  "number": 82,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.922Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bc2"
+  },
+  "name": "farfetchd",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+  "number": 83,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bdc"
+  },
+  "name": "doduo",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+  "number": 84,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b4c"
+  },
+  "name": "dodrio",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+  "number": 85,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c68"
+  },
+  "name": "seel",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+  "number": 86,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b4e"
+  },
+  "name": "dewgong",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+  "number": 87,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b50"
+  },
+  "name": "grimer",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+  "number": 88,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b7c"
+  },
+  "name": "muk",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+  "number": 89,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b7e"
+  },
+  "name": "shellder",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+  "number": 90,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b72"
+  },
+  "name": "cloyster",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+  "number": 91,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b64"
+  },
+  "name": "gastly",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+  "number": 92,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.845Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b8c"
+  },
+  "name": "haunter",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+  "number": 93,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b66"
+  },
+  "name": "gengar",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+  "number": 94,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ba2"
+  },
+  "name": "onix",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+  "number": 95,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b68"
+  },
+  "name": "drowzee",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+  "number": 96,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.860Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3ba8"
+  },
+  "name": "hypno",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+  "number": 97,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b54"
+  },
+  "name": "krabby",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+  "number": 98,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b56"
+  },
+  "name": "kingler",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+  "number": 99,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b3c"
+  },
+  "name": "voltorb",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+  "number": 100,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b58"
+  },
+  "name": "electrode",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+  "number": 101,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b8a"
+  },
+  "name": "exeggcute",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+  "number": 102,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b5a"
+  },
+  "name": "exeggutor",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+  "number": 103,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bd0"
+  },
+  "name": "cubone",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+  "number": 104,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ba4"
+  },
+  "name": "marowak",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+  "number": 105,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.991Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b6a"
+  },
+  "name": "hitmonlee",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+  "number": 106,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b5c"
+  },
+  "name": "hitmonchan",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+  "number": 107,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.829Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ba6"
+  },
+  "name": "lickitung",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+  "number": 108,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b5e"
+  },
+  "name": "koffing",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+  "number": 109,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b80"
+  },
+  "name": "weezing",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+  "number": 110,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b92"
+  },
+  "name": "rhyhorn",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+  "number": 111,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b98"
+  },
+  "name": "rhydon",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+  "number": 112,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b9c"
+  },
+  "name": "chansey",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+  "number": 113,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bb4"
+  },
+  "name": "tangela",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+  "number": 114,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b96"
+  },
+  "name": "kangaskhan",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+  "number": 115,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b82"
+  },
+  "name": "horsea",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+  "number": 116,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b9e"
+  },
+  "name": "seadra",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+  "number": 117,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3b88"
+  },
+  "name": "goldeen",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+  "number": 118,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bc4"
+  },
+  "name": "seaking",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+  "number": 119,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29b5a79c80a196b3ba0"
+  },
+  "name": "staryu",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+  "number": 120,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:07.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bb6"
+  },
+  "name": "starmie",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+  "number": 121,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bae"
+  },
+  "name": "mr-mime",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+  "number": 122,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bb8"
+  },
+  "name": "scyther",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+  "number": 123,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bba"
+  },
+  "name": "jynx",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+  "number": 124,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bd6"
+  },
+  "name": "electabuzz",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+  "number": 125,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3baa"
+  },
+  "name": "magmar",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+  "number": 126,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3be8"
+  },
+  "name": "pinsir",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+  "number": 127,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bbc"
+  },
+  "name": "tauros",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+  "number": 128,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bf4"
+  },
+  "name": "magikarp",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+  "number": 129,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bac"
+  },
+  "name": "gyarados",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+  "number": 130,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bb0"
+  },
+  "name": "lapras",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+  "number": 131,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bb2"
+  },
+  "name": "ditto",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+  "number": 132,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bbe"
+  },
+  "name": "eevee",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+  "number": 133,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bcc"
+  },
+  "name": "vaporeon",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+  "number": 134,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bc6"
+  },
+  "name": "jolteon",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+  "number": 135,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bc8"
+  },
+  "name": "flareon",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+  "number": 136,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c42"
+  },
+  "name": "porygon",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+  "number": 137,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bd4"
+  },
+  "name": "omanyte",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+  "number": 138,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.125Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3be2"
+  },
+  "name": "omastar",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+  "number": 139,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c04"
+  },
+  "name": "kabuto",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+  "number": 140,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c0a"
+  },
+  "name": "kabutops",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+  "number": 141,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bca"
+  },
+  "name": "aerodactyl",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+  "number": 142,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bda"
+  },
+  "name": "snorlax",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+  "number": 143,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bd8"
+  },
+  "name": "articuno",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+  "number": 144,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c8e"
+  },
+  "name": "zapdos",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+  "number": 145,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c2e"
+  },
+  "name": "moltres",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+  "number": 146,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bce"
+  },
+  "name": "dratini",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+  "number": 147,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bd2"
+  },
+  "name": "dragonair",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+  "number": 148,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c16"
+  },
+  "name": "dragonite",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+  "number": 149,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.240Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bee"
+  },
+  "name": "mewtwo",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+  "number": 150,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c24"
+  },
+  "name": "mew",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+  "number": 151,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bec"
+  },
+  "name": "chikorita",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
+  "number": 152,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c14"
+  },
+  "name": "bayleef",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png",
+  "number": 153,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c0c"
+  },
+  "name": "meganium",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png",
+  "number": 154,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3be0"
+  },
+  "name": "cyndaquil",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
+  "number": 155,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bde"
+  },
+  "name": "quilava",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png",
+  "number": 156,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c12"
+  },
+  "name": "typhlosion",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png",
+  "number": 157,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c0e"
+  },
+  "name": "totodile",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png",
+  "number": 158,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c80"
+  },
+  "name": "croconaw",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png",
+  "number": 159,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c02"
+  },
+  "name": "feraligatr",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png",
+  "number": 160,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3be4"
+  },
+  "name": "sentret",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png",
+  "number": 161,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c1c"
+  },
+  "name": "furret",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png",
+  "number": 162,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bf0"
+  },
+  "name": "hoothoot",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png",
+  "number": 163,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c26"
+  },
+  "name": "noctowl",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png",
+  "number": 164,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bf8"
+  },
+  "name": "ledyba",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png",
+  "number": 165,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bf2"
+  },
+  "name": "ledian",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png",
+  "number": 166,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bfc"
+  },
+  "name": "spinarak",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png",
+  "number": 167,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c10"
+  },
+  "name": "ariados",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png",
+  "number": 168,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c06"
+  },
+  "name": "crobat",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png",
+  "number": 169,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bea"
+  },
+  "name": "chinchou",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png",
+  "number": 170,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cac"
+  },
+  "name": "lanturn",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png",
+  "number": 171,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bfe"
+  },
+  "name": "pichu",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png",
+  "number": 172,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bfa"
+  },
+  "name": "cleffa",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png",
+  "number": 173,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3be6"
+  },
+  "name": "igglybuff",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png",
+  "number": 174,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3bf6"
+  },
+  "name": "togepi",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png",
+  "number": 175,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c00"
+  },
+  "name": "togetic",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png",
+  "number": 176,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c18"
+  },
+  "name": "natu",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png",
+  "number": 177,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.243Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c7a"
+  },
+  "name": "xatu",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
+  "number": 178,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c44"
+  },
+  "name": "mareep",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png",
+  "number": 179,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c9e"
+  },
+  "name": "flaaffy",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png",
+  "number": 180,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c22"
+  },
+  "name": "ampharos",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png",
+  "number": 181,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c08"
+  },
+  "name": "bellossom",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png",
+  "number": 182,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c66"
+  },
+  "name": "marill",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png",
+  "number": 183,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c38"
+  },
+  "name": "azumarill",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png",
+  "number": 184,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c3a"
+  },
+  "name": "sudowoodo",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png",
+  "number": 185,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c72"
+  },
+  "name": "politoed",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png",
+  "number": 186,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c98"
+  },
+  "name": "hoppip",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png",
+  "number": 187,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c34"
+  },
+  "name": "skiploom",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png",
+  "number": 188,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cb4"
+  },
+  "name": "jumpluff",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png",
+  "number": 189,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c3c"
+  },
+  "name": "aipom",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png",
+  "number": 190,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c36"
+  },
+  "name": "sunkern",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png",
+  "number": 191,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3caa"
+  },
+  "name": "sunflora",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png",
+  "number": 192,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c28"
+  },
+  "name": "yanma",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png",
+  "number": 193,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c1a"
+  },
+  "name": "wooper",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png",
+  "number": 194,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c46"
+  },
+  "name": "quagsire",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png",
+  "number": 195,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c9a"
+  },
+  "name": "espeon",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png",
+  "number": 196,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c2a"
+  },
+  "name": "umbreon",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png",
+  "number": 197,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c32"
+  },
+  "name": "murkrow",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png",
+  "number": 198,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c1e"
+  },
+  "name": "slowking",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png",
+  "number": 199,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c6e"
+  },
+  "name": "misdreavus",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
+  "number": 200,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c76"
+  },
+  "name": "unown",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png",
+  "number": 201,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c60"
+  },
+  "name": "wobbuffet",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png",
+  "number": 202,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c48"
+  },
+  "name": "girafarig",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png",
+  "number": 203,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c40"
+  },
+  "name": "pineco",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png",
+  "number": 204,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c62"
+  },
+  "name": "forretress",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png",
+  "number": 205,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c2c"
+  },
+  "name": "dunsparce",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png",
+  "number": 206,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c88"
+  },
+  "name": "gligar",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png",
+  "number": 207,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cae"
+  },
+  "name": "steelix",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
+  "number": 208,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c20"
+  },
+  "name": "snubbull",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png",
+  "number": 209,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c4a"
+  },
+  "name": "granbull",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png",
+  "number": 210,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c9c"
+  },
+  "name": "qwilfish",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png",
+  "number": 211,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c4c"
+  },
+  "name": "scizor",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
+  "number": 212,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c5e"
+  },
+  "name": "shuckle",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png",
+  "number": 213,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c6a"
+  },
+  "name": "heracross",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png",
+  "number": 214,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c30"
+  },
+  "name": "sneasel",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png",
+  "number": 215,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c4e"
+  },
+  "name": "teddiursa",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png",
+  "number": 216,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3ca6"
+  },
+  "name": "ursaring",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png",
+  "number": 217,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c50"
+  },
+  "name": "slugma",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png",
+  "number": 218,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c96"
+  },
+  "name": "magcargo",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png",
+  "number": 219,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c3e"
+  },
+  "name": "swinub",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png",
+  "number": 220,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cb2"
+  },
+  "name": "piloswine",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png",
+  "number": 221,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c94"
+  },
+  "name": "corsola",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png",
+  "number": 222,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c8c"
+  },
+  "name": "remoraid",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png",
+  "number": 223,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c52"
+  },
+  "name": "octillery",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png",
+  "number": 224,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c8a"
+  },
+  "name": "delibird",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png",
+  "number": 225,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cb0"
+  },
+  "name": "mantine",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png",
+  "number": 226,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3ca8"
+  },
+  "name": "skarmory",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png",
+  "number": 227,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c70"
+  },
+  "name": "houndour",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png",
+  "number": 228,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c54"
+  },
+  "name": "houndoom",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png",
+  "number": 229,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c56"
+  },
+  "name": "kingdra",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png",
+  "number": 230,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c78"
+  },
+  "name": "phanpy",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png",
+  "number": 231,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c6c"
+  },
+  "name": "donphan",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png",
+  "number": 232,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.404Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3ca0"
+  },
+  "name": "porygon2",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
+  "number": 233,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c58"
+  },
+  "name": "stantler",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png",
+  "number": 234,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c5a"
+  },
+  "name": "smeargle",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png",
+  "number": 235,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c5c"
+  },
+  "name": "tyrogue",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png",
+  "number": 236,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c74"
+  },
+  "name": "hitmontop",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png",
+  "number": 237,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c64"
+  },
+  "name": "smoochum",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png",
+  "number": 238,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c7c"
+  },
+  "name": "elekid",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
+  "number": 239,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c82"
+  },
+  "name": "magby",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png",
+  "number": 240,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c86"
+  },
+  "name": "miltank",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png",
+  "number": 241,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c84"
+  },
+  "name": "blissey",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png",
+  "number": 242,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c7e"
+  },
+  "name": "raikou",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png",
+  "number": 243,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c92"
+  },
+  "name": "entei",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
+  "number": 244,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3ca4"
+  },
+  "name": "suicune",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
+  "number": 245,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3c90"
+  },
+  "name": "larvitar",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png",
+  "number": 246,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cba"
+  },
+  "name": "pupitar",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
+  "number": 247,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3ca2"
+  },
+  "name": "tyranitar",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
+  "number": 248,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cc4"
+  },
+  "name": "lugia",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+  "number": 249,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cc0"
+  },
+  "name": "ho-oh",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png",
+  "number": 250,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cbc"
+  },
+  "name": "celebi",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png",
+  "number": 251,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.510Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cd2"
+  },
+  "name": "treecko",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png",
+  "number": 252,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cdc"
+  },
+  "name": "grovyle",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png",
+  "number": 253,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cb6"
+  },
+  "name": "sceptile",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png",
+  "number": 254,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cc6"
+  },
+  "name": "torchic",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png",
+  "number": 255,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cb8"
+  },
+  "name": "combusken",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png",
+  "number": 256,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cbe"
+  },
+  "name": "blaziken",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png",
+  "number": 257,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cd0"
+  },
+  "name": "mudkip",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png",
+  "number": 258,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3ccc"
+  },
+  "name": "marshtomp",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png",
+  "number": 259,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cce"
+  },
+  "name": "swampert",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png",
+  "number": 260,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3ce6"
+  },
+  "name": "poochyena",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png",
+  "number": 261,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cd8"
+  },
+  "name": "mightyena",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png",
+  "number": 262,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cda"
+  },
+  "name": "zigzagoon",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png",
+  "number": 263,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cde"
+  },
+  "name": "linoone",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png",
+  "number": 264,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cca"
+  },
+  "name": "wurmple",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png",
+  "number": 265,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d0e"
+  },
+  "name": "silcoon",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png",
+  "number": 266,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d16"
+  },
+  "name": "beautifly",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png",
+  "number": 267,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3ce4"
+  },
+  "name": "cascoon",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png",
+  "number": 268,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cec"
+  },
+  "name": "dustox",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png",
+  "number": 269,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cc8"
+  },
+  "name": "lotad",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png",
+  "number": 270,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cf4"
+  },
+  "name": "lombre",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png",
+  "number": 271,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d14"
+  },
+  "name": "ludicolo",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png",
+  "number": 272,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cf6"
+  },
+  "name": "seedot",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png",
+  "number": 273,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cd4"
+  },
+  "name": "nuzleaf",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png",
+  "number": 274,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cf8"
+  },
+  "name": "shiftry",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png",
+  "number": 275,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cc2"
+  },
+  "name": "taillow",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png",
+  "number": 276,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cee"
+  },
+  "name": "swellow",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png",
+  "number": 277,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d08"
+  },
+  "name": "wingull",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png",
+  "number": 278,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d02"
+  },
+  "name": "pelipper",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png",
+  "number": 279,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cf2"
+  },
+  "name": "ralts",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png",
+  "number": 280,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d04"
+  },
+  "name": "kirlia",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png",
+  "number": 281,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3ce2"
+  },
+  "name": "gardevoir",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png",
+  "number": 282,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cd6"
+  },
+  "name": "surskit",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png",
+  "number": 283,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cea"
+  },
+  "name": "masquerain",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png",
+  "number": 284,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d1c"
+  },
+  "name": "shroomish",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png",
+  "number": 285,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3ce0"
+  },
+  "name": "breloom",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png",
+  "number": 286,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cf0"
+  },
+  "name": "slakoth",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png",
+  "number": 287,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d12"
+  },
+  "name": "vigoroth",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png",
+  "number": 288,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3ce8"
+  },
+  "name": "slaking",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png",
+  "number": 289,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d00"
+  },
+  "name": "nincada",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png",
+  "number": 290,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d1a"
+  },
+  "name": "ninjask",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png",
+  "number": 291,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d10"
+  },
+  "name": "shedinja",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png",
+  "number": 292,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cfc"
+  },
+  "name": "whismur",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png",
+  "number": 293,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cfa"
+  },
+  "name": "loudred",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png",
+  "number": 294,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d18"
+  },
+  "name": "exploud",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png",
+  "number": 295,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d0a"
+  },
+  "name": "makuhita",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png",
+  "number": 296,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d1e"
+  },
+  "name": "hariyama",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png",
+  "number": 297,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d0c"
+  },
+  "name": "azurill",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png",
+  "number": 298,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3cfe"
+  },
+  "name": "nosepass",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png",
+  "number": 299,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df29c5a79c80a196b3d06"
+  },
+  "name": "skitty",
+  "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png",
+  "number": 300,
+  "likes": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:47:08.592Z"
+  },
+  "__v": 0
+}]

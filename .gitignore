@@ -2,4 +2,3 @@ node_modules
 .env
 error.log
 request.log
-pokemom_db.items.json
